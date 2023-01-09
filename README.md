@@ -19,6 +19,10 @@ running.
 
 At this time, there are no modules/packages needed for installation to get started.
 
+## Features
+
+* To prevent the game from being too dull, the ball will speed up each consecutive time it hits a paddle! Hope you have quick fingers!
+
 ## Links
 
 - Repository: https://github.com/jupetta29/pong
