@@ -3,9 +3,8 @@
 </p>
 
 # Pong
-> This project is a recreation of the best game from the classic Nokia 3310
-
-Pong is a classic arcade game that has a really simple premise. 
+> Pong is one of the classic and earliest arcade games
+ 
 The game is just a ball that's going across a table and two players each control a paddle and bounce the ball back and forth. 
 If you miss a ball, then the other user gains a point.
 
